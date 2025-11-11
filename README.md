@@ -105,9 +105,10 @@ PINECONE_REGION=us-east-1
 ---
 
 ## 🧩 Ejemplo de salida esperada
-```
-![alt text](image.png)
-```
+
+<img width="1651" height="391" alt="image" src="https://github.com/user-attachments/assets/3acfdafa-5fb7-4a15-82d5-5107414f3941" />
+
+
 
 
 ---
